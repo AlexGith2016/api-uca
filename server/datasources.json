@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "database": {
-    "name": "db",
+    "name": "database",
     "connector": "memory"
   }
 }
