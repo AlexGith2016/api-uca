@@ -31,7 +31,7 @@
       "permission": "DENY"
     },
     {
-      "accessType": "READ",
+      "accessType": "WRITE",
       "principalType": "ROLE",
       "principalId": "$everyone",
       "permission": "ALLOW",
